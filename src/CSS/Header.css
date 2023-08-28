@@ -42,7 +42,7 @@
   }
   
   /* Responsive styles for screens smaller than 640px */
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 650px) {
     .app_header-container {
       padding: 1rem 2rem 0 2rem;
       margin-top: 2rem;
