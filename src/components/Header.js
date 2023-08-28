@@ -22,7 +22,7 @@ function Header() {
       </div>
 
       <div className='app_header-img'>
-        <img src= {imgHeader} alt='image-header' style={{height:"350px", width:"300", borderRadius: "20%"}}/>
+        <img src= {imgHeader} alt='imageheader' style={{height:"350px", width:"300", borderRadius: "20%"}}/>
       </div>
     </section>
     </>
