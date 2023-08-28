@@ -7,9 +7,7 @@ import { DatePicker } from '@mui/x-date-pickers/DatePicker';
 import Box from '@mui/material/Box';
 import Slider from '@mui/material/Slider';
 import { Link } from 'react-router-dom';
-import img3 from "../components/img/767042.jpg";
 import { Typography } from '@mui/material';
-import moment from 'moment/moment';
 
 function Reservation() {
   const [fName, setFName] = useState("");
