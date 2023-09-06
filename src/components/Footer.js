@@ -1,5 +1,5 @@
 import React from "react";
-import {Link} from "react-router-dom";
+import {Link} from "react-router-dom"
 import logo from "../components/img/footer_logo.png"
 import { FaFacebook, FaTwitter, FaInstagram, FaPinterest, FaYoutube } from "react-icons/fa";
 import "../CSS/footer.css";
@@ -7,10 +7,8 @@ import "../CSS/footer.css";
 
 const Footer = () => {
     return (
-      <>
+        <>
         <div className="app_footer">
-=======
-       <div className="app_footer">
         <div className="app_footer-section">
         <div className="app_footer-items">
             <div className="app_footer-logo"><img src={logo} alt="Little lemonlogo" style={{ height:"150px", width: "100px"}}/></div>
